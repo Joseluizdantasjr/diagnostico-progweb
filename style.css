@@ -1,0 +1,18 @@
+body {
+  background-color: lightskyblue;
+}
+
+#simple {
+  text-align: center;
+  font-size: 150%;
+}
+
+#pokeimg {
+  width: 20%;
+  height: 25%;
+  margin-left: 40%;
+}
+
+#info {
+  text-align: center;
+}
